@@ -69,10 +69,9 @@ sudo python3 anomaly.py
 
 ## Screenshots
 
-*CloudWatch Dashboard showing live latency metrics for monitored endpoints*
 
-*<img width="1920" height="784" alt="Cloud-Watch" src="https://github.com/user-attachments/assets/0b758b00-b452-4dc0-a0f7-3c45a1e61f37" />
-*
+
+![CloudWatch Dashboard](https://github.com/user-attachments/assets/0b758b00-b452-4dc0-a0f7-3c45a1e61f37)
 
 ## Author
 
